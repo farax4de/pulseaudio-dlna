@@ -1,3 +1,7 @@
+## Notes about this fork:
+I try to maintain the open pullrequests from the original archive a bit. For this I use the branch **release**.
+Please understand that I have little experience with github so far.
+
 # About #
 <img align="left" src="samples/images/application.png">
 
